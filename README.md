@@ -2,7 +2,7 @@
 </div><img width="1351" height="591" alt="site-2" src="https://github.com/user-attachments/assets/1ec2d9ac-d5bb-4d40-bdf8-fe6c058b4208" />
 
 
-# Run and deploy your AI Studio app
+# Brasil Poliglotas
 
 This contains everything you need to run your app locally.
 
