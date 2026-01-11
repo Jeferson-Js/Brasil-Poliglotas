@@ -1,0 +1,8 @@
+{
+  "name": "Brasil Poliglotas",
+  "description": "A premium Brazilian-born language learning platform featuring structured CEFR-based lessons and advanced AI content generation for 8 global languages.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
